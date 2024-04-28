@@ -1,0 +1,6 @@
+# LinkedIn API credentials
+CLIENT_ID = '77ntco8syf8sx7'
+CLIENT_SECRET = '7OtpPvKpPY84YBhw'
+REDIRECT_URI = 'http://localhost:8000/callback'
+SCOPE = 'r_liteprofile r_compliance_2l'
+access_token_var = 'AQXaUldWNt_BSV2tb9JSAwO8mDC8EanB-EAvJGsVydphFXqgaxlMCqscj0tIaGsMa8iqqOASg5iXSilOc-sIa0DNRtFm_-HTSZT-Tz2xp3wIAAh0d1uaTih3Tvg2aqet2hTg3Vh3Q0BFBDIDNUtH6oj-0JNIDh2F1gChNqIh3RhWG22PFeWlNi0r8WzrH5_ba298L-g-dDo1vBYFtdP6qtV2zUeuwtp2HMzbF5WxSoAhR70nRE16Jkj-EuRN3z98iVeboUsPpM-xioqxAzcnCOocXo6KbpHK88NsQtVVwymDdoyvKcX3FdiaW7lnsQqpRMve-TAqZjwJ6bjbuLeh39wQOShGxQ'
